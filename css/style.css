@@ -214,5 +214,9 @@ footer{
     .skills-container,footer{
         flex-direction: column;
     }
-   
+   /* resume */
+    .resume-container{
+        flex-direction: column;
+        gap: 24px;
+    }
 }
