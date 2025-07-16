@@ -219,4 +219,12 @@ footer{
         flex-direction: column;
         gap: 24px;
     }
+       /* footer */
+    footer{
+        padding: 20px;
+    }
+    .footer-column{
+        /* width: 85%; */
+        width: calc(100% - 40px);/*100% - padding(left+right)*/
+    }
 }
